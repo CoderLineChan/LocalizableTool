@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="Subscribe.Descrip">【Instructions de renouvellement automatique】
+\*Renouvellement automatique : ce produit est un forfait de renouvellement automatique, et les frais de renouvellement seront facturés sur le compte dans les 24 heures avant la fin de la période d'abonnement en cours.
+\*Annuler le renouvellement : l'abonnement sera automatiquement renouvelé à moins que le renouvellement automatique ne soit désactivé au moins 24 heures avant la fin de la période d'abonnement en cours.
+\*Tous les paiements seront confirmés via votre compte iTunes. Vous pouvez gérer les abonnements et désactiver les abonnements automatiques dans les paramètres de votre compte iTunes.</string>
+   <string name="Rating.Star.Detail1">Cette application est superbe.</string>
+   <string name="Rating.Star.Detail2">Simple, facile à utiliser elle fait bien le job.</string>
+   <string name="Rating.Star.Detail3">Très performante . Facile à utiliser</string>
+   <string name="Rating.Star.Detail4">Facile d’accès, cette application donne la superficie en mode gratuit. Génial !</string>
+</resources>
